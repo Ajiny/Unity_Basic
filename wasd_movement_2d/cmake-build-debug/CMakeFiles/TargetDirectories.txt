@@ -1,0 +1,2 @@
+/Users/gina/Documents/GitHub/Unity_Basic/wasd_movement_2d/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/gina/Documents/GitHub/Unity_Basic/wasd_movement_2d/cmake-build-debug/CMakeFiles/rebuild_cache.dir
