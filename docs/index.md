@@ -1,4 +1,4 @@
-<h1>Unity Basics<h1>
+<h1>Unity Basics</h1>
         
         
 The GitHub repository for this page is at https://github.com/Ajiny/Unity_Basic
